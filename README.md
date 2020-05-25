@@ -13,14 +13,14 @@ This is a random meme video generator made for fun, similar to the [YTPPlus proj
 - MoviePy - 1.0.2
 
 ## Getting started
-Before you download the repository:
+**Before you download the repository:**
 - Make sure you have ``Python 3.8 or newer`` and pip installed
 - Install MoviePy via pip: 
 ```
 pip install moviepy
 ```
 
-To install and use:
+**To install and use:**
 - Download the repository
 - navigate to the downloaded ``MemeVideoGen`` folder and run the ``interface.py`` file
 
