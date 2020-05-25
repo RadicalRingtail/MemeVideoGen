@@ -16,7 +16,9 @@ This is a random meme video generator made for fun, similar to the [YTPPlus proj
 Before you download the repository:
 - Make sure you have ``Python 3.8 or newer`` and pip installed
 - Install MoviePy via pip: 
-```pip install moviepy```
+```
+pip install moviepy
+```
 
 To install and use:
 - Download the repository
